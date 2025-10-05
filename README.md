@@ -17,7 +17,7 @@ Bilisim Teknolijileri Bolumu, Game Devoloper alanında kendimi geliştiriyorum.
 
 ## 📫 İletişim
 
-[![LinkedIn](https://www.linkedin.com/in/yunus-emre-g%C3%BClbahar-55b4b4255/)
+[![LinkedIn](www.linkedin.com/in/yunus-emre-gülbahar-55b4b4255)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunusemregulbaharr@gmail.com)
 
 ## 🛠️ Tech Stack
