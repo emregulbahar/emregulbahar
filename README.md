@@ -7,7 +7,6 @@ Bilisim Teknolijileri Bolumu, Game Devoloper alanında kendimi geliştiriyorum.
 
 [![Genel İstatistikler](https://github-readme-stats.vercel.app/api?username=emregulbahar&show_icons=true&theme=radical)](https://github.com/emregulbahar)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emregulbahar&layout=compact&theme=radical)](https://github.com/emregulbahar)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=emregulbahar&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emregulbahar&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=emregulbahar&theme=radical)](https://git.io/streak-stats)
 
