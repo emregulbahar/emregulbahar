@@ -1,6 +1,6 @@
 # Merhaba 👋 Ben Yunus Emre Gulbahar
 
-Bilisim Teknolijileri Bolumu, Game Devoloper alanında kendimi geliştiriyorum.  
+
  
 
 ## 📊 GitHub İstatistiklerim
